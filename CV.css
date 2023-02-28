@@ -1,0 +1,170 @@
+
+body{
+    overflow-x: hidden;
+ }
+
+#nombre {
+    color: rgb(32, 209, 106);
+    text-shadow: 
+    3px 3px 1px rgb(255, 123, 0),
+    5px 5px 2px yellow,
+    8px 8px 3px rgb(192, 48, 137);
+    font-size: 100px;
+}
+#descripción {
+    font-style: italic;
+    color:rgb(0, 89, 255);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 8px;
+    border: 4px solid black;
+    background-color: bisque;
+}
+
+.enlaces {
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+    border: 2px;
+    margin-left: 50%;
+}
+
+
+.imgRedonda {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    border: 10px solid grey;
+    margin-left: 50%;
+    margin-right: 50%;
+  
+    
+    
+   
+}
+
+.barra{display: flex;
+    width: 100%;
+    justify-content: center;
+    }
+
+body {
+    background-image: url("https://cultura-informatica.com/wp-content/uploads/2022/10/5-lenguajes-de-programacion-que-debes-aprender-este-2022.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+        
+}
+
+
+.listapersonal {
+    opacity: 0.1;
+    padding: auto;
+    margin-right: 70%;
+    font-size: 30px;
+    height: auto;
+
+}
+
+
+.listapersonal:hover {
+    opacity: 1;
+    color: beige;
+    
+}
+
+.idioma {
+    opacity: 0.1;
+    padding: auto;
+    margin-right: 70%;
+    font-size: 30px;
+    height: auto;
+}
+
+.idioma:hover {
+    opacity: 1;
+    color: beige;
+}
+
+.educacion {
+    opacity: 0.1;
+    padding: auto;
+    margin-right: 70%;
+    font-size: 30px;
+    height: auto;
+}
+
+.educacion:hover {
+    opacity: 1;
+    color: beige;
+    
+}
+
+.explab {
+    opacity: 0.1;
+    padding: auto;
+    margin-right: 70%;
+    font-size: 30px;
+    height: auto;
+    
+}
+
+.explab:hover {
+    opacity: 1;
+    color: beige;
+        
+}
+
+.txtmapa {
+    color: white;
+}
+
+#boton {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+#txtmapa {
+    
+    font-size: 20px;
+    color: red;
+    padding: auto;
+    margin-right: 70%;
+    height: auto;
+
+}
+
+#fecha {
+    font-size: 20px;
+    color: red;
+    padding: auto;
+    margin-right: 70%;
+    height: auto;
+
+}
+
+#btnfecha {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
